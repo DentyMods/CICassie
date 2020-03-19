@@ -7,7 +7,7 @@ Config option | Config Type | Default Value | Description
 :---: | :---: | :---: | :------
 CICassie_enable | Bool | False | Should CICassie be enabled? 
 CICassie_cispawn_message | String | (none) | The cassie message for when CI spawns
-CICassie_message_delay | Float | 2f | Second delay between the cassie and CI spawn
+CICassie_message_delay | Float | 2 | Second delay between the cassie and CI spawn
 
 
 Need help? Join the support server https://discord.gg/NWY9AMw
