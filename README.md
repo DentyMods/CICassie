@@ -1,6 +1,8 @@
 # CICassie
 A EXILED plugin that does a custom cassie (config) on CI spawn
 
+THIS IS BROKEN, DON'T FUCKING SHIT IN MY DM'S SAYING IT NO WORK
+
 This works for MP2 but you need [EXILED](https://github.com/galaxy119/EXILED)
 
 Config option | Config Type | Default Value | Description
